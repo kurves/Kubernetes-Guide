@@ -16,4 +16,7 @@ Kubernetes is an open-source system for production-grade container orchestration
 - Storage orchestration
 - secret and configuration management
 - Batch execution
+- Horizontal scaling
+- Self healing
+- Designed for extensibility
 
