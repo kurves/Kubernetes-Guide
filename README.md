@@ -20,3 +20,8 @@ Kubernetes is an open-source system for production-grade container orchestration
 - Self healing
 - Designed for extensibility
 
+with Kubernetes you can do the following:
+- Deploy a containerized aplication on a cluster
+- Scale the deployment
+- Update the containerized application
+- Debug the containerize application
