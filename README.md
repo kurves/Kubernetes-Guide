@@ -25,3 +25,6 @@ with Kubernetes you can do the following:
 - Scale the deployment
 - Update the containerized application
 - Debug the containerize application
+
+### Kubernetes installation
+- Follow thr following steps to install Kubernetes on your machine
