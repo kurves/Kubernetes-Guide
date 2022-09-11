@@ -27,4 +27,4 @@ with Kubernetes you can do the following:
 - Debug the containerize application
 
 ### Kubernetes installation
-- Follow thr following steps to install Kubernetes on your machine
+- Follow the following steps to use Kubernetes on your machine
