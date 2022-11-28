@@ -32,3 +32,5 @@ with Kubernetes you can do the following:
 ## Steps to follow
 - Deploy a containerized application on a cluster
 - Scale the deployment
+- Update the containerized application with a new software version
+- Debug the containerized appplication
