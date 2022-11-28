@@ -28,3 +28,7 @@ with Kubernetes you can do the following:
 
 ### Kubernetes installation
 - Follow the following steps to use Kubernetes on your machine
+
+## Steps to follow
+- Deploy a containerized application on a cluster
+- Scale the deployment
