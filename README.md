@@ -34,3 +34,8 @@ with Kubernetes you can do the following:
 - Scale the deployment
 - Update the containerized application with a new software version
 - Debug the containerized appplication
+
+# Using Kubectl to Create a Deployment
+
+## Kubernetes Deployments
+first you need a ruuning Kubernetes cluster and then deploy the containerized application on top of it.
