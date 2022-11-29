@@ -64,3 +64,10 @@ Katacoda provoides a free, in browser Kubernetes environment
 - Deplot a sample application to minikube
 - Run the app
 - View the application logs
+
+## Steps 
+Run ```minikube start``` if you have installed minikube locally
+
+Open the Kuberenetes dashboard in a browser using ```minikube dashboard```
+
+Open Dashboard with URL ```minikube dashbboard --url```
