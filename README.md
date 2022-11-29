@@ -45,5 +45,14 @@ The deployment instructs Kubernetes how to create and update instances of your a
 
 A Deployment is responsible for creating and updating instaances of your apllication.
 
+## Kubectl
+
 You can create and manage the deployment by using the Kubernetes command line interface, **Kubectl**
+
+Kubectl uses the Kubernetes API to interact with the cluster
+
+When you create a Deployment, you'll need to specify the contaioner image for your appplication and the number of replicas that you want to run.
+
+Applications need to be packaged into one of the supporyted conatiner formats to be deployed on kubernetes.
+
 
