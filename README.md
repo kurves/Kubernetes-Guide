@@ -55,4 +55,12 @@ When you create a Deployment, you'll need to specify the contaioner image for yo
 
 Applications need to be packaged into one of the supporyted conatiner formats to be deployed on kubernetes.
 
+## Minikube and Katacoda
 
+Minikube and katacoda are used to run apps on Kubernetes
+Katacoda provoides a free, in browser Kubernetes environment
+
+### steps
+- Deplot a sample application to minikube
+- Run the app
+- View the application logs
