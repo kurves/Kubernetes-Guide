@@ -38,8 +38,12 @@ with Kubernetes you can do the following:
 # Using Kubectl to Create a Deployment
 
 ## Kubernetes Deployments
-first you need a ruuning Kubernetes cluster and then deploy the containerized application on top of it, using a Kubernetes Deployment configuration
+
+First you need a runing Kubernetes cluster and then deploy the containerized application on top of it, using a Kubernetes Deployment configuration
+
 The deployment instructs Kubernetes how to create and update instances of your application.
+
 A Deployment is responsible for creating and updating instaances of your apllication.
+
 You can create and manage the deployment by using the Kubernetes command line interface, **Kubectl**
 
